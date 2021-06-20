@@ -1,14 +1,11 @@
-title: "TD&R"
+title: TD&R
 author:
-  name: "Volodymyr Bozhko"
+  name: Volodymyr Bozhko
   email: inc8877@gmail.com
 
 
 header_pages:
- - ./TDR_PrivacyPolicy.md
+- ./TDR_PrivacyPolicy.md
 
 
  theme: minima
-
- plugins:
- - jekyll-seo-tag
