@@ -1,4 +1,4 @@
 theme: minima
 
 header_pages:
- - TDR_PrivacyPolicy.md
+ - ./TDR_PrivacyPolicy.md
