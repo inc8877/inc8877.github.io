@@ -1,5 +1,4 @@
-## Welcome to the TD&R
-Wonderful mountain drift and racing!
+## [Touge Drift & Racing Privacy Policy](./TDR_PrivacyPolicy)
 
 ## [AppStore](https://apps.apple.com/ru/app/touge-drift-racing/id1503015930)
 ## [Play Market](https://play.google.com/store/apps/details?id=com.VolodymyrBozhko.TougeDriftandRacing)

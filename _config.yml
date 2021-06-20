@@ -1,4 +1,3 @@
-header_pages:
- - ./TDR_PrivacyPolicy.md
+title: Minimal theme
 
-theme: minima
+theme: jekyll-theme-minimal
