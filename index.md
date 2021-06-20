@@ -1,6 +1,6 @@
 # Touge Drift & Racing
-- [Touge Drift & Racing Privacy Policy](./TDR_PrivacyPolicy.md)
-- [Touge Drift & Racing Terms & Conditions](./TDR_TermsAndConditions.md)
+- ### [Privacy Policy](./TDR_PrivacyPolicy.md)
+- ### [Terms & Conditions](./TDR_TermsAndConditions.md)
 
 ---
 
