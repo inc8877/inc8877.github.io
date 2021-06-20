@@ -1,11 +1,4 @@
-title: TD&R
-author:
-  name: Volodymyr Bozhko
-  email: inc8877@gmail.com
-
-
 header_pages:
  - ./TDR_PrivacyPolicy.md
 
-
- theme: minima
+theme: minima
