@@ -1,4 +1,4 @@
-# Touge Drift & Racing
+# Touge Drift & Racing 2.0
 - ### [Privacy Policy](./TDR_PrivacyPolicy.md)
 - ### [Terms & Conditions](./TDR_TermsAndConditions.md)
 
