@@ -1,6 +1,6 @@
-# Touge Drift & Racing 2.0
-- ### [Privacy Policy](./TDR_PrivacyPolicy.md)
-- ### [Terms & Conditions](./TDR_TermsAndConditions.md)
+# Drive Division™
+- ### [Privacy Policy](./DriveDivision_PrivacyPolicy.md)
+- ### [Terms & Conditions](./DriveDivision_TermsAndConditions.md)
 
 ---
 
@@ -9,8 +9,8 @@
 
 ---
 
-### Support or Contact
+### CONTACTS
 
-Have an offer for cooperation? - write on inc8877@gmail.com
+Have an offer for cooperation? - write on ceo@m87.studio
 
-Do you have wishes or complaints? - write on touge.drift.racing@gmail.com
+Do you have wishes or complaints? - write on support@m87.studio
