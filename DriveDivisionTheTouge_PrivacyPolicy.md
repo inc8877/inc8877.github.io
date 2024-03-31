@@ -19,6 +19,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [Clever Ads Solutions](https://cleveradssolutions.com/privacy-policy)
+*   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
 
 **Log Data**
 
